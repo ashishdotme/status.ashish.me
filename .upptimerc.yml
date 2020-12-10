@@ -4,11 +4,11 @@ repo: status.ashish.me # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Ashish.me API
+  - name: ashish.me API
     url: https://api.ashish.me/
-  - name: Codequiz API
+  - name: codequiz API
     url: https://en.wikipedia.org
-  - name: Leetcode API
+  - name: leetcode API
     url: https://leetcode.ashish.me/api/
 
 status-website:
@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ashishdotme/assets/master/logo.png
   name: ashish.me
   introTitle: status.ashish.me
-  introMessage: Uptime monitor for my personal projects
+  introMessage: uptime monitor for my personal projects
   navbar:
     - title: Status
       href: /
