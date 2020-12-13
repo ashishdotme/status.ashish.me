@@ -4,10 +4,10 @@ repo: status.ashish.me # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: ashish.me API
-    url: https://api.ashish.me/
+  - name: ashish.me [staging] API
+    url: https://api.dev.ashish.me/
   - name: codequiz API
-    url: https://en.wikipedia.org
+    url: https://api.codequiz.me/v1/courses
   - name: leetcode API
     url: https://leetcode.ashish.me/api/
 
