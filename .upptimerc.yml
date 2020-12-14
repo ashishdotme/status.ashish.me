@@ -4,6 +4,8 @@ repo: status.ashish.me # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: ashish.me [prod] API
+    url: https://api.prod.ashish.me/
   - name: ashish.me [staging] API
     url: https://api.dev.ashish.me/
   - name: codequiz API
