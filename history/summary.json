@@ -4,19 +4,19 @@
     "url": "https://api.prod.ashish.me/",
     "icon": "https://favicons.githubusercontent.com/api.prod.ashish.me",
     "slug": "ashish-me-prod-api",
-    "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "status": "up",
+    "uptime": "95.57%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "95.57%",
+    "uptimeYear": "95.57%",
     "time": 693,
     "timeDay": 693,
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2020-12-14": 7
+      "2020-12-14": 26
     }
   },
   {
