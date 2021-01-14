@@ -8,12 +8,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 705,
     "timeDay": 734,
     "timeWeek": 713,
-    "timeMonth": 705,
+    "timeMonth": 706,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2020-12-14": 26
@@ -33,7 +33,7 @@
     "time": 359,
     "timeDay": 367,
     "timeWeek": 358,
-    "timeMonth": 358,
+    "timeMonth": 360,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,20 @@
     "url": "https://api.codequiz.me/v1/courses",
     "icon": "https://favicons.githubusercontent.com/api.codequiz.me",
     "slug": "codequiz-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
     "timeDay": 1302,
     "timeWeek": 1135,
-    "timeMonth": 1147,
+    "timeMonth": 1153,
     "timeYear": 1043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-14": 0
+    }
   },
   {
     "name": "leetcode API",
@@ -69,7 +71,7 @@
     "time": 393,
     "timeDay": 400,
     "timeWeek": 423,
-    "timeMonth": 394,
+    "timeMonth": 396,
     "timeYear": 393,
     "dailyMinutesDown": {}
   }
