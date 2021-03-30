@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 702,
-    "timeDay": 688,
-    "timeWeek": 681,
-    "timeMonth": 703,
+    "timeDay": 689,
+    "timeWeek": 684,
+    "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2020-12-14": 26
@@ -25,17 +25,24 @@
     "icon": "https://favicons.githubusercontent.com/api.dev.ashish.me",
     "slug": "ashish-me-staging-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 345,
-    "timeWeek": 334,
+    "uptimeYear": "96.66%",
+    "time": 356,
+    "timeDay": 353,
+    "timeWeek": 336,
     "timeMonth": 353,
-    "timeYear": 357,
-    "dailyMinutesDown": {}
+    "timeYear": 356,
+    "dailyMinutesDown": {
+      "2021-01-14": 35,
+      "2020-12-14": 26,
+      "2020-12-13": 1265,
+      "2020-12-12": 1440,
+      "2020-12-11": 1440,
+      "2020-12-10": 893
+    }
   },
   {
     "name": "codequiz API",
@@ -49,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1141,
-    "timeDay": 1070,
-    "timeWeek": 1165,
-    "timeMonth": 1183,
+    "timeDay": 1077,
+    "timeWeek": 1143,
+    "timeMonth": 1179,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2021-01-14": 35
@@ -63,16 +70,23 @@
     "icon": "https://favicons.githubusercontent.com/leetcode.ashish.me",
     "slug": "leetcode-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "96.77%",
     "time": 404,
-    "timeDay": 402,
-    "timeWeek": 420,
-    "timeMonth": 425,
+    "timeDay": 395,
+    "timeWeek": 410,
+    "timeMonth": 424,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-14": 35,
+      "2020-12-14": 26,
+      "2020-12-13": 1265,
+      "2020-12-12": 1440,
+      "2020-12-11": 1440,
+      "2020-12-10": 893
+    }
   }
 ]
