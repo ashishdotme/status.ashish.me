@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 702,
-    "timeDay": 689,
-    "timeWeek": 684,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "time": 703,
+    "timeDay": 724,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2020-12-14": 26
     }
@@ -25,24 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/api.dev.ashish.me",
     "slug": "ashish-me-staging-api",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.66%",
-    "time": 356,
-    "timeDay": 353,
-    "timeWeek": 336,
-    "timeMonth": 353,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2021-01-14": 35,
-      "2020-12-14": 26,
-      "2020-12-13": 1265,
-      "2020-12-12": 1440,
-      "2020-12-11": 1440,
-      "2020-12-10": 893
-    }
+    "uptimeYear": "100.00%",
+    "time": 358,
+    "timeDay": 373,
+    "timeWeek": 368,
+    "timeMonth": 359,
+    "timeYear": 358,
+    "dailyMinutesDown": {}
   },
   {
     "name": "codequiz API",
@@ -55,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1141,
-    "timeDay": 1077,
-    "timeWeek": 1143,
-    "timeMonth": 1179,
-    "timeYear": 1141,
+    "time": 1140,
+    "timeDay": 1073,
+    "timeWeek": 1123,
+    "timeMonth": 1170,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2021-01-14": 35
     }
@@ -70,23 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/leetcode.ashish.me",
     "slug": "leetcode-api",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.77%",
-    "time": 404,
-    "timeDay": 395,
-    "timeWeek": 410,
-    "timeMonth": 424,
-    "timeYear": 404,
-    "dailyMinutesDown": {
-      "2021-01-14": 35,
-      "2020-12-14": 26,
-      "2020-12-13": 1265,
-      "2020-12-12": 1440,
-      "2020-12-11": 1440,
-      "2020-12-10": 893
-    }
+    "uptimeYear": "100.00%",
+    "time": 407,
+    "timeDay": 449,
+    "timeWeek": 433,
+    "timeMonth": 434,
+    "timeYear": 407,
+    "dailyMinutesDown": {}
   }
 ]
