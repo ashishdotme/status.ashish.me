@@ -27,9 +27,9 @@
     "slug": "ashish-me-staging-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 305,
@@ -37,7 +37,7 @@
     "timeMonth": 379,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2021-06-22": 1
+      "2021-06-22": 13
     }
   },
   {
@@ -65,9 +65,9 @@
     "url": "https://leetcode.ashish.me/api/",
     "icon": "https://favicons.githubusercontent.com/leetcode.ashish.me",
     "slug": "leetcode-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 420,
     "timeMonth": 428,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-22": 0
+    }
   }
 ]
