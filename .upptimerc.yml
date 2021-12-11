@@ -5,11 +5,7 @@ repo: status.ashish.me # Your Github repository name
 # Add your sites here
 sites:
   - name: ashish.me [staging] API
-    url: https://api.dev.ashish.me/
-  - name: codequiz API
-    url: https://api.codequiz.me/v1/courses
-  - name: leetcode API
-    url: https://leetcode.ashish.me/api/
+    url: https://systemapi.prod.ashish.me/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
