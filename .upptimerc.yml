@@ -4,7 +4,9 @@ repo: status.ashish.me # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: ashish.me [prod] API
+  - name: Importer [prod] API
+    url: https://importerapi.prod.ashish.me/
+  - name: System [prod] API
     url: https://systemapi.prod.ashish.me/
 
 status-website:
