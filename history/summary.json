@@ -1,23 +1,38 @@
 [
   {
-    "name": "ashish.me [prod] API",
-    "url": "https://systemapi.prod.ashish.me/",
-    "icon": "https://favicons.githubusercontent.com/systemapi.prod.ashish.me",
-    "slug": "ashish-me-prod-api",
+    "name": "Importer [prod] API",
+    "url": "https://importerapi.prod.ashish.me/",
+    "icon": "https://favicons.githubusercontent.com/importerapi.prod.ashish.me",
+    "slug": "importer-prod-api",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 715,
-    "timeDay": 1511,
-    "timeWeek": 988,
-    "timeMonth": 792,
-    "timeYear": 716,
-    "dailyMinutesDown": {
-      "2021-12-11": 173,
-      "2021-04-21": 19
-    }
+    "uptimeYear": "100.00%",
+    "time": 781,
+    "timeDay": 781,
+    "timeWeek": 781,
+    "timeMonth": 781,
+    "timeYear": 781,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "System [prod] API",
+    "url": "https://systemapi.prod.ashish.me/",
+    "icon": "https://favicons.githubusercontent.com/systemapi.prod.ashish.me",
+    "slug": "system-prod-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
+    "dailyMinutesDown": {}
   }
 ]
