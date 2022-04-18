@@ -4,18 +4,20 @@
     "url": "https://importerapi.prod.ashish.me/",
     "icon": "https://favicons.githubusercontent.com/importerapi.prod.ashish.me",
     "slug": "importer-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 638,
-    "timeWeek": 663,
-    "timeMonth": 667,
+    "timeDay": 665,
+    "timeWeek": 666,
+    "timeMonth": 668,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   },
   {
     "name": "System [prod] API",
