@@ -16,7 +16,7 @@
     "timeMonth": 694,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-10-09": 820,
+      "2022-10-09": 835,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
@@ -198,19 +198,19 @@
     "url": "https://systemapi.prod.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/systemapi.prod.ashish.me.ico",
     "slug": "system-prod-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 698,
-    "timeDay": 636,
-    "timeWeek": 680,
-    "timeMonth": 686,
+    "timeDay": 629,
+    "timeWeek": 673,
+    "timeMonth": 684,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2022-10-09": 0
+      "2022-10-09": 14
     }
   }
 ]
