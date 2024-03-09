@@ -16,7 +16,7 @@
     "timeMonth": 713,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-03-09": 51,
+      "2024-03-09": 560,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -388,9 +388,9 @@
     "url": "https://systemapi.prod.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/systemapi.prod.ashish.me.ico",
     "slug": "system-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
@@ -400,6 +400,7 @@
     "timeMonth": 706,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2024-03-09": 0,
       "2024-01-26": 636,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
