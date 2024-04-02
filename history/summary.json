@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/importerapi.prod.ashish.me.ico",
     "slug": "importer-prod-api",
     "status": "down",
-    "uptime": "11.07%",
+    "uptime": "11.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 728,
-    "timeDay": 802,
-    "timeWeek": 747,
-    "timeMonth": 737,
+    "timeDay": 646,
+    "timeWeek": 739,
+    "timeMonth": 735,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2024-04-01": 14,
+      "2024-04-02": 12,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -379,8 +380,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
     "time": 723,
-    "timeDay": 696,
-    "timeWeek": 703,
-    "timeMonth": 714,
+    "timeDay": 635,
+    "timeWeek": 694,
+    "timeMonth": 712,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2024-01-26": 636,
