@@ -1,7 +1,7 @@
 url: https://systemapi.prod.ashish.me/
-status: down
-code: 502
-responseTime: 730
-lastUpdated: 2024-09-06T13:51:02.775Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2024-09-06T13:58:31.973Z
 startTime: 2022-01-19T23:39:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
