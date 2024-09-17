@@ -4,19 +4,19 @@
     "url": "https://jobsapi.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/jobsapi.ashish.me.ico",
     "slug": "jobs-prod-api",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 663,
-    "timeDay": 663,
-    "timeWeek": 663,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 561,
+    "timeDay": 561,
+    "timeWeek": 561,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-09-17": 111
+      "2024-09-17": 128
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ashish.me.ico",
     "slug": "main-prod-api",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 646,
-    "timeDay": 646,
-    "timeWeek": 646,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "status": "up",
+    "uptime": "86.27%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "86.27%",
+    "uptimeMonth": "86.27%",
+    "uptimeYear": "86.27%",
+    "time": 615,
+    "timeDay": 615,
+    "timeWeek": 615,
+    "timeMonth": 615,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 18
     }
   }
 ]
