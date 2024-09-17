@@ -1,7 +1,7 @@
 url: https://api.ashish.me/
-status: up
-code: 200
-responseTime: 794
-lastUpdated: 2024-09-17T17:58:52.286Z
+status: down
+code: 502
+responseTime: 497
+lastUpdated: 2024-09-17T19:49:26.329Z
 startTime: 2024-09-17T17:58:51.490Z
 generator: Upptime <https://github.com/upptime/upptime>
