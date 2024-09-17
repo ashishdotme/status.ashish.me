@@ -4,10 +4,10 @@ repo: status.ashish.me # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Importer [prod] API
-    url: https://importerapi.prod.ashish.me/
-  - name: System [prod] API
-    url: https://systemapi.prod.ashish.me/
+  - name: Jobs [prod] API
+    url: https://jobsapi.ashish.me/
+  - name: Main [prod] API
+    url: https://api.ashish.me/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
