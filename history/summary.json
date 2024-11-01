@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobsapi.ashish.me.ico",
     "slug": "jobs-prod-api",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 592,
-    "timeDay": 604,
-    "timeWeek": 557,
-    "timeMonth": 596,
-    "timeYear": 592,
+    "uptimeYear": "99.80%",
+    "time": 590,
+    "timeDay": 520,
+    "timeWeek": 569,
+    "timeMonth": 595,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2024-09-17": 128
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 608,
-    "timeDay": 636,
-    "timeWeek": 523,
-    "timeMonth": 613,
-    "timeYear": 608,
+    "time": 606,
+    "timeDay": 481,
+    "timeWeek": 530,
+    "timeMonth": 609,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2024-09-17": 18
     }
