@@ -4,9 +4,11 @@ repo: status.ashish.me # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Jobs [prod] API
+  - name: Scrobbler
+    url: https://scrobbler.ashish.me/health
+  - name: Jobs API
     url: https://jobsapi.ashish.me/
-  - name: Main [prod] API
+  - name: Main API
     url: https://api.ashish.me/
 
 status-website:
