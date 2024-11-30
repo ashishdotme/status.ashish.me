@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scrobbler.ashish.me.ico",
     "slug": "scrobbler",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 752,
-    "timeDay": 787,
-    "timeWeek": 801,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 750,
+    "timeDay": 656,
+    "timeWeek": 776,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2024-11-07": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1428,
-    "timeDay": 443,
-    "timeWeek": 600,
-    "timeMonth": 1428,
-    "timeYear": 1428,
+    "time": 1353,
+    "timeDay": 468,
+    "timeWeek": 546,
+    "timeMonth": 1353,
+    "timeYear": 1353,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1445,
-    "timeDay": 593,
-    "timeWeek": 593,
-    "timeMonth": 1445,
-    "timeYear": 1445,
+    "time": 1369,
+    "timeDay": 489,
+    "timeWeek": 581,
+    "timeMonth": 1369,
+    "timeYear": 1369,
     "dailyMinutesDown": {}
   }
 ]
