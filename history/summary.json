@@ -42,19 +42,19 @@
     "url": "https://api.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ashish.me.ico",
     "slug": "main-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1233,
-    "timeDay": 518,
-    "timeWeek": 539,
-    "timeMonth": 1233,
-    "timeYear": 1233,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1211,
+    "timeDay": 536,
+    "timeWeek": 541,
+    "timeMonth": 1211,
+    "timeYear": 1211,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 9
     }
   }
 ]
