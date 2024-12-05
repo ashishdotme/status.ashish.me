@@ -42,7 +42,7 @@
     "url": "https://api.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ashish.me.ico",
     "slug": "main-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 539,
     "timeMonth": 1233,
     "timeYear": 1233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   }
 ]
