@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 756,
-    "timeDay": 790,
-    "timeWeek": 769,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "time": 753,
+    "timeDay": 667,
+    "timeWeek": 751,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2024-11-07": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 465,
-    "timeWeek": 570,
-    "timeMonth": 1228,
-    "timeYear": 1228,
+    "time": 1204,
+    "timeDay": 486,
+    "timeWeek": 565,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ashish.me.ico",
     "slug": "main-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1211,
-    "timeDay": 536,
-    "timeWeek": 541,
-    "timeMonth": 1211,
-    "timeYear": 1211,
-    "dailyMinutesDown": {
-      "2024-12-05": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1188,
+    "timeDay": 507,
+    "timeWeek": 535,
+    "timeMonth": 1188,
+    "timeYear": 1188,
+    "dailyMinutesDown": {}
   }
 ]
