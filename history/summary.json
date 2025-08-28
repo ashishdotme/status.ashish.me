@@ -26,19 +26,19 @@
     "url": "https://jobsapi.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/jobsapi.ashish.me.ico",
     "slug": "jobs-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 889,
-    "timeWeek": 687,
-    "timeMonth": 763,
-    "timeYear": 693,
+    "time": 692,
+    "timeDay": 683,
+    "timeWeek": 661,
+    "timeMonth": 754,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 8
     }
   },
   {
