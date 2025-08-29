@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 786,
-    "timeDay": 930,
-    "timeWeek": 905,
-    "timeMonth": 814,
-    "timeYear": 786,
+    "time": 785,
+    "timeDay": 549,
+    "timeWeek": 885,
+    "timeMonth": 808,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-04-16": 136,
       "2024-12-16": 69,
@@ -28,18 +28,16 @@
     "slug": "jobs-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 683,
-    "timeWeek": 661,
-    "timeMonth": 754,
-    "timeYear": 692,
-    "dailyMinutesDown": {
-      "2025-08-28": 8
-    }
+    "time": 691,
+    "timeDay": 533,
+    "timeWeek": 655,
+    "timeMonth": 758,
+    "timeYear": 691,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Main API",
@@ -53,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 618,
-    "timeWeek": 1314,
-    "timeMonth": 779,
+    "timeDay": 502,
+    "timeWeek": 1296,
+    "timeMonth": 782,
     "timeYear": 679,
     "dailyMinutesDown": {}
   }
