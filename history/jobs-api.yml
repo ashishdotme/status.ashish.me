@@ -1,7 +1,7 @@
 url: https://jobsapi.ashish.me/
-status: up
-code: 200
-responseTime: 828
-lastUpdated: 2025-11-18T12:14:23.559Z
+status: down
+code: 500
+responseTime: 249
+lastUpdated: 2025-11-18T13:11:23.440Z
 startTime: 2024-11-06T13:26:27.283Z
 generator: Upptime <https://github.com/upptime/upptime>
