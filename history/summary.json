@@ -4,17 +4,17 @@
     "url": "https://scrobbler.ashish.me/health",
     "icon": "https://icons.duckduckgo.com/ip3/scrobbler.ashish.me.ico",
     "slug": "scrobbler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "98.94%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 810,
-    "timeDay": 832,
-    "timeWeek": 1152,
-    "timeMonth": 950,
-    "timeYear": 813,
+    "time": 809,
+    "timeDay": 707,
+    "timeWeek": 1069,
+    "timeMonth": 931,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2025-11-18": 15,
       "2025-04-16": 136,
@@ -28,9 +28,9 @@
     "slug": "jobs-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 681,
     "timeDay": 433,
@@ -38,7 +38,7 @@
     "timeMonth": 585,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://api.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ashish.me.ico",
     "slug": "main-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 519,
-    "timeWeek": 649,
-    "timeMonth": 621,
-    "timeYear": 670,
+    "time": 666,
+    "timeDay": 439,
+    "timeWeek": 604,
+    "timeMonth": 609,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 0
     }
   }
 ]
