@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/scrobbler.ashish.me.ico",
     "slug": "scrobbler",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 808,
     "timeDay": 544,
@@ -16,7 +16,7 @@
     "timeMonth": 935,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 8,
       "2025-04-16": 136,
       "2024-12-16": 69
     }
@@ -26,19 +26,19 @@
     "url": "https://jobsapi.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/jobsapi.ashish.me.ico",
     "slug": "jobs-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 423,
-    "timeWeek": 614,
-    "timeMonth": 594,
+    "time": 683,
+    "timeDay": 552,
+    "timeWeek": 636,
+    "timeMonth": 601,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -46,17 +46,19 @@
     "url": "https://api.ashish.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ashish.me.ico",
     "slug": "main-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 710,
-    "timeWeek": 713,
-    "timeMonth": 634,
-    "timeYear": 671,
-    "dailyMinutesDown": {}
+    "time": 666,
+    "timeDay": 378,
+    "timeWeek": 630,
+    "timeMonth": 615,
+    "timeYear": 669,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
