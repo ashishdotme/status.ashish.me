@@ -1,7 +1,7 @@
 url: https://scrobbler.ashish.me/health
-status: up
-code: 200
-responseTime: 863
-lastUpdated: 2026-01-18T23:04:47.726Z
+status: down
+code: 522
+responseTime: 19467
+lastUpdated: 2026-01-19T11:36:05.992Z
 startTime: 2024-11-06T13:26:26.316Z
 generator: Upptime <https://github.com/upptime/upptime>
